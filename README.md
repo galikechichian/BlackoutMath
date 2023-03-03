@@ -1,4 +1,5 @@
 # BlackoutMath
+GAME DESCRIPTION:
 A command-line game that lets you either:
 1. Solve an equation with the following valid operators: +, -, x, /, ^
 2. Create a solvable equation given the number of tries, the length, and the percentage of an additional digit.
